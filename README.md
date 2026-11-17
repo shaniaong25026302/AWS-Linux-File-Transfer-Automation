@@ -18,7 +18,8 @@ The goal is to use Linux, networking, Bash scripting, SSH, rsync, and cron to bu
 
 ## Architecture
 
-<img width="987" height="553" alt="Screenshot 2026-11-17 215957" src="https://github.com/user-attachments/assets/a6bd2e18-4d34-42a9-9637-89347f4be0aa" />
+![Uploading Linux Automated File Transfer Architecture.png…]()
+
 
 
 ## How It Works
