@@ -1,5 +1,3 @@
-# AWS Linux File Transfer Automation
-
 ## Project Overview
 
 This project demonstrates how to automate secure file transfers between two Linux servers hosted on AWS EC2.
@@ -18,7 +16,8 @@ The goal is to use Linux, networking, Bash scripting, SSH, rsync, and cron to bu
 
 ## Architecture
 
-![Uploading Linux Automated File Transfer Architecture.png…]()
+<img width="1752" height="897" alt="Linux Automated File Transfer Architecture" src="https://github.com/user-attachments/assets/d2d263b8-982f-4dad-8cb8-41ea27292bb5" /># AWS Linux File Transfer Automation
+
 
 
 
