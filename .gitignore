@@ -1,24 +1,13 @@
+# SSH keys
+*.pem
+*.key
+.ssh/
+file-transfer-internal
+
 # Logs
 *.log
 logs/
 
-# SSH private keys
-*.pem
-*.key
-id_rsa
-id_ed25519
-file-transfer-internal
-
-# Temporary files
-*.tmp
-*.bak
-*.swp
-*~
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Environment variables
+# Environment and temporary files
 .env
-.env.*
+*.tmp
