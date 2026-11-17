@@ -103,4 +103,8 @@ The tests demonstrated that the system supports:
 - Automate the creation and configuration of AWS infrastructure.
 - Manage multiple EC2 instances using reusable Terraform configurations.
 - Simplify scaling the infrastructure from 2 to 50 servers.
-- Track infrastructure changes using Git. dont answer
+- Track infrastructure changes using Git.
+
+### Setup Documentation
+-[AWS Infrastructure Setup] (docs/aws-setup.md)
+-[SSH Configuration] (docs/ssh-configuration)
