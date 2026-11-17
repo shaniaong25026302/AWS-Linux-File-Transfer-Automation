@@ -1,0 +1,4 @@
+# AWS Linux File Transfer Automation
+# Run the transfer script every 5 minutes
+
+*/5 * * * * /home/ubuntu/scripts/transfer.sh
