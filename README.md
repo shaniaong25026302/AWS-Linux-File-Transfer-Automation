@@ -91,6 +91,16 @@ The tests demonstrated that the system supports:
 
 > **Current Limitation:** Automatic retry logic is not implemented within the Bash script. Recovery currently requires correcting the underlying issue, followed by manual re-execution or a subsequent scheduled cron execution.
 
-### Future Improvement	Description
-Terraform	Automate AWS infrastructure provisioning to improve consistency and reduce manual configuration.
-Amazon CloudWatch	Centralise logs, monitor file transfers, and send alerts when failures occur.
+## Future Improvements
+
+### 1. Monitoring with Amazon CloudWatch
+- Collect transfer logs centrally using CloudWatch Logs.
+- Monitor EC2 performance, including CPU utilization.
+- Configure CloudWatch alarms to notify us when issues occur.
+- Make troubleshooting easier without manually checking server logs.
+
+### 2. Infrastructure as Code with Terraform
+- Automate the creation and configuration of AWS infrastructure.
+- Manage multiple EC2 instances using reusable Terraform configurations.
+- Simplify scaling the infrastructure from 2 to 50 servers.
+- Track infrastructure changes using Git. dont answer
