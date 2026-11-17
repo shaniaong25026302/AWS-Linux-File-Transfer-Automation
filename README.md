@@ -106,5 +106,5 @@ The tests demonstrated that the system supports:
 - Track infrastructure changes using Git.
 
 ### Setup Documentation
--[AWS Infrastructure Setup] (docs/aws-setup.md)
--[SSH Configuration] (docs/ssh-configuration)
+- [AWS Infrastructure Setup](docs/aws-setup.md)
+- [SSH Configuration](docs/ssh-configuration.md)
