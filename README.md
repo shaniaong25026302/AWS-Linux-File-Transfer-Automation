@@ -33,14 +33,6 @@ We also configured cron to run the script automatically every five minutes durin
 
 The automation can run without manually connecting to Server 2.
 
-## Testing and Results
-
-We successfully tested manual file transfers using rsync.
-
-We also created cron-test.txt on Server 1 and confirmed that cron automatically transferred it to Server 2.
-
-The log file recorded the transfer timestamps and successful execution.
-
 ## Troubleshooting
 
 During the project, we encountered SSH authentication errors and incorrect Linux file paths.
